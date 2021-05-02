@@ -1,5 +1,5 @@
 ;;
-#use "ex10.10.ml"
+#use "ex9.10.ml"
 
 (* 目的：隣接する二つの漢字表記の駅名間の距離を求める *)
 (* get_ekikan_kyori : string -> string -> ekikan_t list -> float *)

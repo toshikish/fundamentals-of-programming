@@ -1,5 +1,5 @@
 ;;
-#use "metro.ml"
+#use "ex9.9.ml"
 
 (* 目的：駅名リストから該当するローマ字表記の駅名があれば漢字表記にする *)
 (* romaji_to_kanji : string -> ekimei_t list -> string *)
